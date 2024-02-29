@@ -5,8 +5,13 @@ public class Test02 {
 		System.out.println("세번째 커밋에서 수정");
 	}
 	
+
 	void insert() {
 		System.out.println("eclipse git remoteClone 에서 수정");
+	}
+	
+	void update() {
+		System.out.println("원본파일에서 수정");
 	}
 
 }
